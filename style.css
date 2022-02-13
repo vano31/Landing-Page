@@ -153,10 +153,27 @@ body {
 }
 
 
+.section-3 {
+    background-color: white;
+    padding: 100px 300px;
+}
 
-.blue-box{
+
+
+.section-3 .blue-box{
     background-color: #3882f6;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
     
+}
+
+
+.title-text,
+.small-text {
+    font-size: 18px;
+    color: white;
 }
 
 .img-text {
