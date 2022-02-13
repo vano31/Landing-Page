@@ -113,6 +113,18 @@ body {
     height: 250px;
 }
 
+.section-2 {
+    background-color: #e5e7eb;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    color: #1f2937;
+
+}
+
 .img-text {
     width: 250px;
     text-align: center;
