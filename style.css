@@ -4,7 +4,7 @@ img {
 }
 
 body {
-    font-family: Roboto, Arial ;
+    font-family: 'Roboto', sans-serif ;
 }
 
 .header {
@@ -37,6 +37,7 @@ body {
 .logo {
     color: #e5e7eb;
     font-size: 24px;
+    font-weight: bold;
 
 }
 
