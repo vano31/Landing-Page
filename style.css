@@ -60,3 +60,12 @@ body {
     font-size: 18px;
     color: #e5e7eb;
 }
+
+.signup1,
+.signup2 {
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    background-color: #3882f6;
+    border-radius: 25px;
+}
