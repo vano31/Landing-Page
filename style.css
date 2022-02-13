@@ -23,7 +23,7 @@ body {
 .footer {
 
     border: 1px solid black
-    
+
 }
 
 
@@ -55,11 +55,24 @@ body {
 .extra-header {
     background-color: #1f2937;
     height: 550px;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    align-items: center;
 }
 
 .hero-second-text {
     font-size: 18px;
     color: #e5e7eb;
+    width: 400px;
+}
+
+.extra-header-left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 20px;
 }
 
 .signup1,
@@ -69,4 +82,5 @@ body {
     padding: 10px;
     background-color: #3882f6;
     border-radius: 25px;
+    display: inline-block;
 }
