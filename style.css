@@ -115,6 +115,7 @@ body {
 
 .section-2 {
     background-color: #e5e7eb;
+    padding: 100px 400px 100px 400px;
 }
 
 .quote-text {
@@ -122,8 +123,19 @@ body {
     font-weight: 100;
     font-style: italic;
     color: #1f2937;
+    display: flex;
+    flex-direction: column;
 
 }
+
+
+.speaker-text {
+    align-self: flex-end;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: bold;
+}
+
 
 .img-text {
     width: 250px;
