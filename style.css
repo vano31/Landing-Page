@@ -11,6 +11,8 @@ body {
     background-color: #1f2937;
     display: flex;
     justify-content: space-between;
+    height: 100px;
+    padding: 10px;
 }
 
 .header,
@@ -19,13 +21,11 @@ body {
 .section-2,
 .section-3,
 .footer {
+
     border: 1px solid black
+    
 }
 
-.header {
-    height: 100px;
-    padding: 10px;
-}
 
 
 .header-links {
@@ -54,6 +54,7 @@ body {
 
 .extra-header {
     background-color: #1f2937;
+    height: 550px;
 }
 
 .hero-second-text {
