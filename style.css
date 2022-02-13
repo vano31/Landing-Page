@@ -1,0 +1,13 @@
+img {
+    width: 400px;
+    height: 400px;
+}
+
+.header,
+.extra-header,
+.section-1,
+.section-2,
+.section-3,
+.footer {
+    border: 1px solid black
+}
