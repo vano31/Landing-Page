@@ -11,3 +11,7 @@ img {
 .footer {
     border: 1px solid black
 }
+
+.header {
+    height: 750px;
+}
