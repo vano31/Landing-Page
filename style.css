@@ -18,6 +18,7 @@ body {
     padding: 10px;
 }
 
+/*
 .header,
 .extra-header,
 .section-1,
@@ -28,6 +29,8 @@ body {
     border: 1px solid black
 
 }
+
+border was only used for learning*/
 
 
 .header-links {
@@ -179,5 +182,15 @@ body {
 .img-text {
     width: 250px;
     text-align: center;
+
+}
+
+.footer {
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    padding: 75px;
 
 }
